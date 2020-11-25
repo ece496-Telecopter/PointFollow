@@ -17,9 +17,11 @@ python3 FollowBasicWaypoints.py
 
 ## Commands to control the python script
 
-`h` is `previous`
-`l` is `next`
-`q` is `quit`
+`h` is `previous` 
+
+`l` is `next` 
+
+`q` is `quit` 
 
 ### Tips and Warnings
 1. Don't spam commands, this will 100% cause the script to lag and freeze output on the UE4 engine. The script is very basic and does not handle any spam protection or any sort of colision on the actual engine
